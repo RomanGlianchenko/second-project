@@ -13,6 +13,6 @@
 2. С помощью ssh-keygen сгенерировать ssh ключи и добавить публичный ключ на github
 3. Создать репозиторий на Github
 4. Добавить созданный репозиторий в Git '''git remote add origin link''' ссылку нужно взять в github
-5. Отправить всё на Github '''git push origin master''' далее отправлять просто '''git push'''
+5. Отправить всё на Github '''git push -u origin master''' далее отправлять просто '''git push'''
  
   
