@@ -14,7 +14,7 @@
 3. Создать репозиторий на Github
 4. Добавить созданный репозиторий в Git ```git remote add origin link``` ссылку нужно взять в github
 5. Отправить всё на Github ```git push -u origin master``` далее отправлять просто ```git push```
-####### Чтобы сохранить всё в репозиторий и отправить на Github:
+###### Чтобы сохранить всё в репозиторий и отправить на Github:
 ```git add filename.txt && git commit -m comment && git push```
  
   
